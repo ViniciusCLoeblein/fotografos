@@ -1,0 +1,7 @@
+{
+  "name": "fotografos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
